@@ -80,7 +80,7 @@ To compare results of our approach and [Yang's DAC work](http://www.cse.cuhk.edu
 
 The vertical line in baby blue shows the comparison of TPR at the average FPR among five random seeds of "DAC".
 
-<div align=center><img src="https://github.com/qwepi/SSL/blob/master/figs_ROC/legend_SSL_DAC.png" width="50" height="30"/></div>
+<div align=center><img src="https://github.com/qwepi/SSL/blob/master/figs_ROC/legend_SSL_DAC.png" width="10" height="10"/></div>
 
 ![](https://github.com/qwepi/SSL/blob/master/figs_ROC/github-ROC-unlossfix-DAC-whole.jpg)
 

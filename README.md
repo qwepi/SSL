@@ -4,7 +4,7 @@ Source code and pretrained model for 24th Asia and South Pacific Design Automati
 
 Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning.
 
-Author: Ying Chen, Yibo Lin, Tianyang Gai, Yajuan Su, Yayi Wei, and David Z. Pan
+Ying Chen, Yibo Lin, Tianyang Gai, Yajuan Su, Yayi Wei, and David Z. Pan
 
 ## Dataset
 

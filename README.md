@@ -82,6 +82,8 @@ The vertical line in baby blue shows the comparison of TPR at the average FPR am
 
 ![](https://github.com/qwepi/SSL/blob/master/figs_ROC/legend_SSL_DAC.png)
 
+<div align=center><img src="https://github.com/qwepi/SSL/blob/master/figs_ROC/legend_SSL_DAC.png" /></div>
+
 ![](https://github.com/qwepi/SSL/blob/master/figs_ROC/github-ROC-unlossfix-DAC-whole.jpg)
 
 ## Acknowledgement

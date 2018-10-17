@@ -1,4 +1,6 @@
-# SSL
+# SSL 
+
+Source code and pretrained model for 24th Asia and South Pacific Design Automation Conference paper: Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning.
 
 ## Dataset
 
@@ -66,4 +68,7 @@ and
 
 then when all the runnings are done, go to folder "log_SSL" to check the testing results.
 
+## Acknowledgement
+
+The code is based on Haoyu Yang's source code in repo dlhsd, thanks for his sharing.
 

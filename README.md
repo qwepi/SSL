@@ -72,6 +72,16 @@ and
 
 then when all the runnings are done, go to folder "log_SSL" to check the testing results.
 
+## ROC Curve
+
+To compare results of our approach and [Yang's DAC work](http://www.cse.cuhk.edu.hk/~byu/papers/C60-DAC2017-CNN-HSD.pdf), the ROC curves of each benchmark with different ratio of selected labeled samples are as follows (Both average and standard deviation values are drawn for different runs).
+
+"SSL" denotes our approach, "DAC" denotes Yang's DAC work.
+
+The vertical line in baby blue shows the comparison of TPR at the average FPR among five random seeds of "DAC".
+
+![](https://github.com/qwepi/SSL/blob/master/figs_ROC/legend_SSL_DAC.png)
+
 ## Acknowledgement
 
 The code is based on [Haoyu Yang's source code](https://github.com/phdyang007/dlhsd), thanks for his sharing.

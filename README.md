@@ -72,13 +72,13 @@ and
 
 then when all the runnings are done, go to folder "log_SSL" to check the testing results.
 
-## ROC Curve
+## ROC Curves
 
-To compare results of our approach and [Yang's DAC'17 work](http://www.cse.cuhk.edu.hk/~byu/papers/C60-DAC2017-CNN-HSD.pdf), the [ROC curves](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) of each benchmark with different ratio of selected labeled samples are as follows (Both average and standard deviation values are drawn for different runs).
+To compare results of our approach and [Yang's DAC'17 work](http://www.cse.cuhk.edu.hk/~byu/papers/C60-DAC2017-CNN-HSD.pdf), we adjust the decision boundary of each model to plot [the ROC curves](https://en.wikipedia.org/wiki/Receiver_operating_characteristic). The ROC curves of each benchmark with different ratios of selected labeled samples are as follows (both average and standard deviation values are drawn for different runs).
 
 "SSL" denotes our approach, "DAC" denotes Yang's work.
 
-"TPR" denotes [true positive rate](https://en.wikipedia.org/wiki/Sensitivity_and_specificity), "FPR" denotes [false positive rate](https://en.wikipedia.org/wiki/False_positive_rate).
+["TPR" denotes true positive rate, "FPR" denotes false positive rate](https://en.wikipedia.org/wiki/Confusion_matrix).
 
 The vertical line refers to the same FPR values reported by the DAC work.
 
